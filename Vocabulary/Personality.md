@@ -1,4 +1,6 @@
-**Positive Personality Adjectives:**
+# Vocabulario personalidad
+
+## **Positive Personality Adjectives:**
 
 -   **Amusing:** Someone who is funny and entertaining.
 -   **Brave:** A person who faces danger or fear with courage.
@@ -21,7 +23,6 @@
 -   **Helpful:** Always ready to assist others.
 -   **Joyful:** Full of happiness and spreads positive energy.
 -   **Kind:** A caring person who is considerate of others.
--   **Loyal:** Faithful and trustworthy in relationships.
 -   **Modest:** Humble, doesn’t boast about their achievements.
 -   **Open-minded:** Willing to consider new ideas and different opinions.
 -   **Passionate:** Has intense feelings or strong enthusiasm for something.
@@ -30,16 +31,37 @@
 -   **Cool:** Relaxed and easy-going in attitude.
 -   **Reliable:** Dependable, someone you can trust.
 -   **Smart:** Quick-witted and intellectually sharp.
--   **Sympathetic:** Understanding and compassionate toward others' feelings.
 -   **Witty:** Sharp and clever in humor or remarks.
 -   **Nice:** Friendly and pleasant to be with.
--   **Gentle:** Kind and careful, treating others with care.
 -   **Obliging:** Eager to help and do favors for others.
 -   **Saucy:** Bold and playful, often in a cheeky way.
 -   **Sneering:** Someone who mocks or ridicules others in a disrespectful way.
+-   **Loyal:** Faithful and trustworthy in relationships.
+-   **Gentle:** Kind and careful, treating others with care.
 -   **Thoughtful:** Considerate and mindful of others’ feelings and needs.
+-   **Sympathetic:** Understanding and compassionate toward others' feelings.
+-   **Resourceful:** Able to find quick and clever ways to solve problems; skilled at handling new or difficult situations effectively.
+-   **Bright:** Intelligent and quick to understand or learn; showing mental agility and a positive attitude.
+-   **Straightforward:** Honest and direct in communication; clear and unambiguous without any deceit or hidden motives.
+-   **Determined:** Having a firm decision or strong willpower to achieve something, despite any difficulties or challenges.
+-   **Self-sufficient:** Able to take care of oneself without needing help from others; independent in fulfilling one's own needs.
+-   **Conscientious:** Careful and diligent, wishing to do one’s work or duty well and thoroughly; guided by a sense of right and wrong.
+-   **Steady:** Consistent, reliable, and not prone to sudden changes; emotionally stable and dependable.
+-   **Spontaneous:** Acting on impulse without planning in advance; free and natural in expressing oneself.
+-   **Sarcastic:** Using irony to mock or convey contempt; often saying the opposite of what one means in a sharp or humorous way.
+-   **Laid-back:** Relaxed, easygoing, and not easily upset or stressed; having a calm attitude towards life.
+-   **Affectionate:** Showing love or tenderness towards others; expressing feelings in a warm, caring way.
+-   **Ambitious:** Having a strong desire to achieve success, power, or recognition; determined to reach one's goals.
+-   **Assertive:** Confident and direct in expressing one’s needs, opinions, or rights, without being aggressive.
+-   **Honest:** Always telling the truth and not hiding anything; trustworthy and sincere.
+-   **Mature:** Behaving in a responsible and sensible way; showing emotional or intellectual development typical of an adult.
+-   **Open-minded:** Willing to consider new ideas, different opinions, or unfamiliar perspectives; receptive to change.
+-   **Outgoing:** Sociable and friendly, enjoying being around people; comfortable in social situations.
+-   **Patient:** Able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious.
+-   **Reliable:** Dependable and trustworthy; consistently good in performance and fulfilling promises.
+-   **Sensitive:** Easily affected by the feelings of others or by the environment; empathetic and understanding of emotions.
 
-**Negative Personality Adjectives:**
+## **Negative Personality Adjectives:**
 
 -   **Aggressive:** Tends to act in a forceful or hostile way.
 -   **Annoying:** Irritates or bothers others.
@@ -92,78 +114,29 @@
 -   **Unreliable:** Cannot be trusted or depended on.
 -   **Vain:** Overly concerned with appearance or admiration.
 -   **Vindictive:** Seeks revenge, wants to hurt those who have wronged them.
+    [Some cards to practice](https://quizlet.com/516755921/ingles-b2-c1-la-personalidad-flash-cards/)
 
-### Ejemplos de frases sobre **personalidad positiva**:
+## **Expresiones**
 
-1. **"She's incredibly charming, always managing to make everyone around her feel comfortable and valued."**
+-   **On the surface:** Refers to the outward appearance of something, which might be different from the deeper truth. It describes what seems obvious at first glance.
 
-    - (Es increíblemente encantadora, siempre logra que los que la rodean se sientan cómodos y valorados).
+    -   _Example:_ "On the surface, he seems very confident, but deep down he is actually quite insecure."
 
-2. **"His calm demeanor in stressful situations is truly admirable; nothing seems to faze him."**
+-   **Deep down:** Describes the true feelings or nature of a person, which may not be immediately visible or apparent. It refers to what someone genuinely feels inside.
 
-    - (Su comportamiento tranquilo en situaciones estresantes es realmente admirable; nada parece afectarlo).
+    -   _Example:_ "She acts tough, but deep down, she's very sensitive."
 
-3. **"I admire how thoughtful she is—she always considers other people's feelings before making a decision."**
+-   **A bit too:** Used to indicate that something is slightly excessive or more than is desired or appropriate. It often has a mildly negative connotation.
 
-    - (Admiro lo considerada que es—siempre tiene en cuenta los sentimientos de los demás antes de tomar una decisión).
+    -   _Example:_ "He's a bit too stubborn for his own good."
 
-4. **"John is so open-minded that he's always willing to listen to different perspectives without judgment."**
+-   **On the whole:** An expression used to give a general summary or to express an overall opinion. It means considering everything together.
 
-    - (John es tan abierto de mente que siempre está dispuesto a escuchar diferentes perspectivas sin juzgar).
+    -   _Example:_ "On the whole, the presentation went well despite a few minor issues."
 
-5. **"Despite all his success, he's incredibly modest, never boasting about his achievements."**
+-   **A bit of a:** Used to describe something or someone in a slightly informal way, often implying that something is true but not extreme.
 
-    - (A pesar de todo su éxito, es increíblemente modesto, nunca presume de sus logros).
+    -   _Example:_ "He's a bit of a perfectionist, which can be both good and bad."
 
-6. **"She’s passionate about environmental issues, dedicating a lot of time and energy to raising awareness."**
-
-    - (Es apasionada por los temas medioambientales, dedicando mucho tiempo y energía a concienciar a los demás).
-
-7. **"He is both reliable and hardworking, making him the ideal person to take on this project."**
-    - (Es tanto fiable como trabajador, lo que lo convierte en la persona ideal para encargarse de este proyecto).
-
-### Ejemplos de frases sobre **personalidad negativa**:
-
-1. **"Her tendency to be moody makes it difficult to predict how she’ll react in any given situation."**
-
-    - (Su tendencia a ser de mal humor hace difícil predecir cómo reaccionará en cualquier situación).
-
-2. **"He's so conceited that he can't take any criticism, no matter how constructive it is."**
-
-    - (Es tan vanidoso que no puede aceptar ninguna crítica, sin importar lo constructiva que sea).
-
-3. **"I find him incredibly rude, constantly interrupting others and dismissing their opinions as irrelevant."**
-
-    - (Me parece increíblemente grosero, interrumpe constantemente a los demás y descarta sus opiniones como irrelevantes).
-
-4. **"She's a bit too competitive, always trying to outshine others even in trivial matters."**
-
-    - (Es un poco demasiado competitiva, siempre intentando superar a los demás, incluso en asuntos triviales).
-
-5. **"His cynical attitude toward life often brings down the mood of the entire group."**
-
-    - (Su actitud cínica hacia la vida a menudo baja el ánimo de todo el grupo).
-
-6. **"He tends to be quite obstinate, refusing to change his mind even when presented with solid evidence."**
-
-    - (Tiende a ser bastante obstinado, negándose a cambiar de opinión, incluso cuando se le presenta evidencia sólida).
-
-7. **"Her spiteful comments during meetings show that she often holds grudges for far too long."**
-
-    - (Sus comentarios rencorosos durante las reuniones muestran que a menudo guarda rencores durante demasiado tiempo).
-
-8. **"It’s hard to work with someone as unreliable as him; you never know if he’ll follow through on his promises."**
-    - (Es difícil trabajar con alguien tan poco fiable como él; nunca sabes si cumplirá con lo que promete).
-
-### Ejemplos adicionales de **frases con estructuras avanzadas**:
-
-1. **"Even though he comes across as reserved at first, once you get to know him, you'll realize he's actually very warm and sympathetic."**
-
-    - (Aunque al principio parece reservado, cuando lo conoces te das cuenta de que en realidad es muy cálido y comprensivo).
-
-2. **"While her creativity is certainly impressive, she sometimes lacks the focus needed to bring her ideas to fruition."**
-
-    - (Si bien su creatividad es ciertamente impresionante, a veces le falta la concentración necesaria para llevar a cabo sus ideas).
-
-3. **"What I appreciate most about her is that, despite being highly intelligent, she never makes others feel inferior."**
-    - (Lo que más aprecio de ella es que, a pesar de ser muy inteligente, nunca hace que los demás se sientan inferiores).
+-   **Comes across:** Refers to how someone appears or is perceived by others, especially in terms of their personality or behavior. It’s often used to describe first impressions.
+    -   _Example:_ "She comes across as very friendly, but she can be quite strict when it comes to work."
